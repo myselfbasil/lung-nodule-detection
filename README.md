@@ -1,4 +1,4 @@
-# Lung Nodule Segmentation
+# Lung Nodule Detection
 
 ## Overview
 
